@@ -54,6 +54,10 @@
 - 不使用 CSS Grid / Flexbox
 - Markdown 元素全覆盖：标题、段落、加粗、斜体、引用、代码块、列表、表格、图片、链接、分隔线
 
+## 致谢
+
+本项目的样式灵感与排版理念参考自[花叔的 huasheng_editor](https://github.com/alchaincyf/huasheng_editor)，感谢花叔在公众号排版领域的探索与分享。
+
 ## License
 
 MIT
